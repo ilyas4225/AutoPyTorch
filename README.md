@@ -7,3 +7,4 @@ AutoPyTorch is an open-source library that automates the architecture search pro
  ```
 !pip install autoPyTorch
 ```
+## Notebook description
