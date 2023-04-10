@@ -17,7 +17,7 @@ The notebook ['[Iris_Tabular_Classification.ipynb'](https://github.com/ilyas4225
  A Python file in the repository ['[Cifar10.py ](https://github.com/ilyas4225/AutoPyTorch/blob/main/Cifar10.py)] contains the  code for Autopytorch image classification pipline with cifar10 datadset.
 
 
-To Run this code the command is
+To Run this code the command is as
 
  ```
 python.Cifar10.py
