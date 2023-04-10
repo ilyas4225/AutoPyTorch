@@ -8,7 +8,7 @@ AutoPyTorch is an open-source library that automates the architecture search pro
 !pip install autoPyTorch
 ```
 ## Notebook description
-The Cifar10 notebook ['[cautoPytorch_examples.ipynb'](https://github.com/ilyas4225/AutoPyTorch/blob/main/autoPytorch_examples.ipynb)] contains the tabular classification task with digits dataset, wine quality dataset , and with cifar10 dataset.
+The Cifar10 notebook ['[autoPytorch_examples.ipynb'](https://github.com/ilyas4225/AutoPyTorch/blob/main/autoPytorch_examples.ipynb)] contains the tabular classification task with digits dataset, wine quality dataset , and with cifar10 dataset.
 
 The notebook ['[Iris_Tabular_Classification.ipynb'](https://github.com/ilyas4225/AutoPyTorch/blob/main/Iris_Tabular_Classification.ipynb)] contains the tabular classification task with Iris dataset and visualization of the model performance.
 
