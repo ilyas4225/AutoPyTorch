@@ -24,3 +24,10 @@ python.Cifar10.py
 ```
 
 The purpose of this code is to demonstrate how to create and train an image classification pipeline using the autoPyTorch library. By performing this demonstration on the CIFAR10 dataset.
+
+
+
+
+## Results and Discussion
+
+
