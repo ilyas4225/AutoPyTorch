@@ -29,6 +29,25 @@ The purpose of this code is to demonstrate how to create and train an image clas
 
 
 ## Results and Discussion
+
+
+
+#### Tabular Classificaton with WineQuality dataset
+Here is the obtained statiscs of autoPyTorch tabular classification on Wine Quality dataset
+
+```
+{'accuracy': 0.8728323699421965}
+autoPyTorch results:
+	Dataset name: Australian
+	Optimisation Metric: accuracy
+	Best validation score: 0.8538011695906432
+	Number of target algorithm runs: 21
+	Number of successful target algorithm runs: 20
+	Number of crashed target algorithm runs: 0
+	Number of target algorithms that exceeded the time limit: 1
+	Number of target algorithms that exceeded the memory limit: 0
+```
+
 #### Tabular Classificaton with Cifar10
 Here is the obtained statiscs of autoPyTorch tabular classification on cifar10
 
@@ -43,10 +62,8 @@ autoPyTorch results:
 	Number of target algorithms that exceeded the time limit: 0
 	Number of target algorithms that exceeded the memory limit: 26
 ```
-
-
+#### Tabular Classificaton with Iris dataset
 Here is the Obtain statistics from the tabular Classification task Iris dataset
-
 ```
 autoPyTorch results:
 	Dataset name: 9949b5d2-d448-11ed-82e1-0242ac1c000c
