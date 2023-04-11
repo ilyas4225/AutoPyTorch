@@ -43,3 +43,15 @@ autoPyTorch results:
 	Number of target algorithms that exceeded the time limit: 1
 	Number of target algorithms that exceeded the memory limit: 0
 	```
+	
+	
+	
+	
+	![](https://user-images.githubusercontent.com/101690101/231235382-e65581e7-68fd-4b96-aaa8-1b38384f6f58.png "autiPyTorch")
+
+	
+	
+	
+	
+	
+	
