@@ -29,8 +29,23 @@ The purpose of this code is to demonstrate how to create and train an image clas
 
 
 ## Results and Discussion
+#### Tabular Classificaton with Cifar10
+Here is the obtained statiscs of autoPyTorch tabular classification on cifar10
 
-Here is the Obtain statistics from the tabular Classification task on Iris dataset
+```
+{'accuracy': 0.0955}
+autoPyTorch results:
+	Dataset name: 48915da4-d2cb-11ed-bb0a-0242ac1c000c
+	Optimisation Metric: accuracy
+	Number of target algorithm runs: 26
+	Number of successful target algorithm runs: 0
+	Number of crashed target algorithm runs: 0
+	Number of target algorithms that exceeded the time limit: 0
+	Number of target algorithms that exceeded the memory limit: 26
+```
+
+
+Here is the Obtain statistics from the tabular Classification task Iris dataset
 
 ```
 autoPyTorch results:
