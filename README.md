@@ -75,5 +75,7 @@ autoPyTorch results:
 	Number of target algorithms that exceeded the time limit: 1
 	Number of target algorithms that exceeded the memory limit: 0
 ```
-Accuracy 
 
+AutoPyTorch Accuracy of Tabular classification with Iris dataset
+
+![](https://github.com/ilyas4225/AutoPyTorch/blob/main/autiPyTorch.png "AutoPyTorch")
