@@ -31,7 +31,8 @@ The purpose of this code is to demonstrate how to create and train an image clas
 ## Results and Discussion
 
 Here is the Obtain statistics from the tabular Classification task on Iris dataset
-...
+
+ ```
 autoPyTorch results:
 	Dataset name: 9949b5d2-d448-11ed-82e1-0242ac1c000c
 	Optimisation Metric: accuracy
@@ -41,4 +42,4 @@ autoPyTorch results:
 	Number of crashed target algorithm runs: 16
 	Number of target algorithms that exceeded the time limit: 1
 	Number of target algorithms that exceeded the memory limit: 0
-...
+	```
